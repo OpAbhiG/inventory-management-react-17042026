@@ -55,6 +55,7 @@ npm run lint,Runs ESLint to check code quality
 
 📁 Project Structure
 
+
 inventory-management-react/
 ├── src/
 │   ├── components/     # Reusable UI components
@@ -68,6 +69,7 @@ inventory-management-react/
 ├── eslint.config.js
 ├── package.json
 └── README.md
+
 
 🎯 How to Use
 
