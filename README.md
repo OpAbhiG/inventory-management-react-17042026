@@ -45,16 +45,13 @@ This application helps businesses efficiently track, manage, and monitor their a
    git clone <your-repo-url>
    cd inventory-management-react
 
-
-
-
    📂 Available Scripts
+
    Command,Description
 npm run dev,Starts the development server
 npm run build,Builds the app for production
 npm run preview,Previews the production build
 npm run lint,Runs ESLint to check code quality
-
 
 📁 Project Structure
 
@@ -72,17 +69,13 @@ inventory-management-react/
 ├── package.json
 └── README.md
 
-
-
 🎯 How to Use
 
 Dashboard: Get an overview of total assets, categories, and visual charts
 Assets: Add, view, edit, and delete assets
 Reports: View analytics and charts
 Settings: Manage application preferences
-
 (More features will be added as the project grows)
-
 
 🔧 Future Enhancements
 
@@ -92,13 +85,12 @@ Export reports to Excel/PDF
 Dark Mode support
 Barcode/QR Code scanning
 
-
 🤝 Contributing
 
 Fork the project
 Create your feature branch (git checkout -b feature/new-feature)
 Commit your changes (git commit -m 'Add new feature')
 Push to the branch (git push origin feature/new-feature)
-Open a Pull Request
+Open a Pull Request.
 
 
